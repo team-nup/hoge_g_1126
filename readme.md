@@ -1,0 +1,1 @@
+*       @example-inc/example-pj-codeowners
