@@ -1,1 +1,1 @@
-*       @example-inc/example-pj-codeowners
+* @team-nup/test_approval_pr 
